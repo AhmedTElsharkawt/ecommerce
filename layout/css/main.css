@@ -1,0 +1,23 @@
+
+
+
+.navcolors{
+    background-color: blueviolet;
+}
+
+
+.carousel-item{
+    height: 90vh;
+}
+
+.carousel-item img{
+    height: 100%;
+}
+
+.carousel-caption{
+    bottom: 45% !important;
+}
+
+nav{
+    transition: 2s;
+}
